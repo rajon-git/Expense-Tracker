@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "name": "Google",
+      "name": "Facebook",
       "type": "income",
       "amount": 50000,
       "id": 1
@@ -11,6 +11,18 @@
       "type": "expense",
       "amount": 500,
       "id": 2
+    },
+    {
+      "name": "Sallary",
+      "type": "income",
+      "amount": 200000,
+      "id": 3
+    },
+    {
+      "name": "Google",
+      "type": "income",
+      "amount": 5000000,
+      "id": 4
     }
   ]
 }
