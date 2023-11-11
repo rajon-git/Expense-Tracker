@@ -1,24 +1,6 @@
 {
   "transactions": [
     {
-      "name": "Facebook",
-      "type": "income",
-      "amount": 50000,
-      "id": 1
-    },
-    {
-      "name": "Test",
-      "type": "expense",
-      "amount": 500,
-      "id": 2
-    },
-    {
-      "name": "Sallary",
-      "type": "income",
-      "amount": 200000,
-      "id": 3
-    },
-    {
       "name": "Google",
       "type": "income",
       "amount": 5000000,
