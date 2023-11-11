@@ -12,7 +12,7 @@ const Layout = ({children}) => {
             </div>
             </div>
 
-            <div className="footer">&copy;2022 Learn with Sumit</div>
+            <div className="footer">&copy;2023 Rajon</div>
         </div>
     );
 };

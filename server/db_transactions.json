@@ -5,6 +5,18 @@
       "type": "income",
       "amount": 5000000,
       "id": 4
+    },
+    {
+      "name": "Facebook",
+      "type": "income",
+      "amount": 100000,
+      "id": 5
+    },
+    {
+      "name": "Tea",
+      "type": "expense",
+      "amount": 500,
+      "id": 6
     }
   ]
 }
